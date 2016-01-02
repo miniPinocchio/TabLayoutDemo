@@ -2,11 +2,11 @@
 
 ##### 1. 编码方式统一用UTF-8. Android Studio默认已是UTF-8，只要不去改动它就可以了。
 
-![encoding](D:\我的文档\images\encodings.png)
+![encoding](D:\MyWork-File\shujuan\TabLayoutDemo\docs\encodings.png)
 
 ##### 2.缩进统一为4个空格，将Tab size设置为4则可以保证tab键按4个空格缩进。另外，不要勾选上Use tab character，可以保证切换到不同tab长度的环境时还能继续保持统一的4个空格的缩进样式。
 
-![tab_size](D:\我的文档\images\tab_size.png)
+![tab_size](D:\MyWork-File\shujuan\TabLayoutDemo\docs\tab_size.png)
 
 ##### 3. 花括号不要单独一行，和它前面的代码同一行。而且，花括号与前面的代码之间用一个空格隔开。
 
